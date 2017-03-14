@@ -1,2 +1,2 @@
 # dsxproj2
-AMS training
+Demos
